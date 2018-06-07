@@ -32,3 +32,8 @@
 
 * programa correspondente: steepest2a.c
 * valores retornados: (1.040333, 	1.068939, 	0.928445)
+
+### 10.4 - 2d:
+
+* programa correspondente: steepest2d.c
+* valores retornados: (0.000000, 	-0.895719, 	1.088985) 
