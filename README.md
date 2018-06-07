@@ -12,3 +12,8 @@
 
 * programa correspondente: newton2a.c
 * valores retornados: (0.500000, 0.003199, -0.523519)
+
+### 10.2 - 2d:
+
+* programa correspondente: newton2d.c
+* valores retornados: (0.206802, 0.353553, -1.414214)
