@@ -17,3 +17,8 @@
 
 * programa correspondente: newton2d.c
 * valores retornados: (0.206802, 0.353553, -1.414214)
+
+### 10.3 - 1a:
+
+* programa correspondente: quasinewton1a.c
+* valores retornados: (0.500000, 	2.000000)
