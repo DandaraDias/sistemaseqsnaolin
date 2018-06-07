@@ -27,3 +27,8 @@
 
 * programa correspondente: quasinewton1d.c
 * valores retornados: (1.674891, 	1.712652)
+
+### 10.4 - 2a:
+
+* programa correspondente: steepest2a.c
+* valores retornados: (1.040333, 	1.068939, 	0.928445)
