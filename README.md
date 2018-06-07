@@ -22,3 +22,8 @@
 
 * programa correspondente: quasinewton1a.c
 * valores retornados: (0.500000, 	2.000000)
+
+### 10.3 - 1d:
+
+* programa correspondente: quasinewton1d.c
+* valores retornados: (1.674891, 	1.712652)
