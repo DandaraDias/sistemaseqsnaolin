@@ -1,8 +1,8 @@
 # sistemaseqsnaolin
 
-##Observações
+## Observações
 
- ###10.1 - 8d:
+ ### 10.1 - 8d:
  
  * programa correspondente: pontofixo.c
  * valores retornados: (-nan, -nan, -nan)
